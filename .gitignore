@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Dados
+data/raw/
+data/processed/
+
+# Cache e metadados
+__pycache__/
+.ipynb_checkpoints/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.csv
